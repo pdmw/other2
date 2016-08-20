@@ -68,7 +68,9 @@ body {
 }
 
 .masthead-nav > li {
-  display: inline-block;
+  display: block;
+  color: white;
+  text-align: center;
 }
 .masthead-nav > li + li {
   margin-left: 20px;
