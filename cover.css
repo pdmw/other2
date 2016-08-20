@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: "img src: http://www.stefanorachini.com/wordpress/wp-content/uploads/2015/04/330678-300x188.jpg;";
+  background: <img src="http://www.stefanorachini.com/wordpress/wp-content/uploads/2015/04/330678-300x188.jpg;";
   background-size: cover;
 }
 body {
