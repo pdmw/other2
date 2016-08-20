@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: grey;
 }
 body {
   color: #fff;
@@ -67,7 +67,7 @@ body {
   margin-bottom: 10px;
 }
 
-.masthead-nav > li {
+.masthead-nav > li a {
   display: block;
   color: white;
   text-align: center;
