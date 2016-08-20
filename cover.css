@@ -15,7 +15,7 @@ a:hover {
 .btn-default:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
+  background-color: "img src: http://www.stefanorachini.com/wordpress/wp-content/uploads/2015/04/330678-300x188.jpg;";
   border: 1px solid #fff;
 }
 
@@ -25,10 +25,10 @@ a:hover {
  */
 
 html,
-body {
+/*body {
   height: 100%;
-  background-color:http://www.stefanorachini.com/wordpress/wp-content/uploads/2015/04/330678-300x188.jpg;
-}
+  background-color:white;
+}*/
 body {
   color: #fff;
   text-align: center;
