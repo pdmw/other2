@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: grey;
+  background-color:http://www.stefanorachini.com/wordpress/wp-content/uploads/2015/04/330678-300x188.jpg;
 }
 body {
   color: #fff;
@@ -62,6 +62,33 @@ body {
 /*
  * Header
  */
+ <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+
+ /*
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -81,7 +108,7 @@ body {
   font-size: 16px;
   font-weight: bold;
   color: #fff; /* IE8 proofing */
-  color: rgba(255,255,255,.75);
+/*  color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
@@ -105,7 +132,7 @@ body {
     float: right;
   }
 }
-
+*/
 
 /*
  * Cover
