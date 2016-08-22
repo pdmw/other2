@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: <img src="D:\Deassy Feb 2015\Coding\Piano\Cover.jpg;">;
+  background: (url: cat.jpg);
   background-size: cover;
 }
 body {
